@@ -1,0 +1,14 @@
+id|city_name|x|y|
+
+1,Sibiu,750,500
+2,Cisnadie,800,700
+3,Talmaciu,1050,780
+4,Avrig,1300,650
+5,Fagaras,1780,500
+6,Agnita,1350,250
+7,Medias,1000,5
+8,Slimnic,820,290
+9,Ocna Sibiului,580,330
+10,Saliste,250,520
+11,Paltinis,300,850
+12,Miercurea Sibiului,30,300

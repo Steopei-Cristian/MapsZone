@@ -1,0 +1,10 @@
+﻿level = 0 => content default
+level = 1 => login
+level = 2 => signup
+level = 3 => recover pass
+level = 4 => home
+level = 5 => map
+
+0 -> 1
+0 -> 2
+1 -> 3
